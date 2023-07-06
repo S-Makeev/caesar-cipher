@@ -2,7 +2,7 @@ Lab: 18
 
 Project: Cryptography
 
-Author: Slava Makeev, Anthony Sinitsa, Reese Logan, ChatGpt
+Author: Slava Makeev, Anthony Sinitsa, Logan Reese, ChatGpt
 
 Tests
 
